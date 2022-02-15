@@ -1,28 +1,40 @@
-# MRI_Core
+# MRI Core Gadgets
 
 ## AccumulatorGadget
+Type: 
 
 ## AcquisitionAccumulateTriggerGadget
+Type: 
 
 ## AcquisitionPassthroughGadget
+Type: 
 
 ## AsymmetricEchoAdjustROGadget
+Type: 
 
 ## AutoScaleGadget
+Type: 
 
 ## BucketToBufferGadget
+Type: 
 
 ## CoilComputationGadget
+Type: 
 
 ## CoilReducationGadget
+Type: 
 
 ## CombineGadget
+Type: 
 
 ## ComplexToFloatGadget
+Type: 
 
 ## CplxDumpGadget
+Type: ChannelGadget<Acquisition>
 
 ## CropAndCombineGadget
+Type: ChannelGadget<Acquisition>
 
 ## DenoiseGadget
 
