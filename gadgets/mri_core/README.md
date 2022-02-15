@@ -4,7 +4,8 @@
 Type: 
 
 ## AcquisitionAccumulateTriggerGadget
-Type: 
+Type: ChannelGadget
+Input: Acquisition or Waveform
 
 ## AcquisitionPassthroughGadget
 Type: 
@@ -16,7 +17,8 @@ Type:
 Type: 
 
 ## BucketToBufferGadget
-Type: 
+Type: ChannelGadget
+Input: AcquisitionBucket
 
 ## CoilComputationGadget
 Type: 
@@ -31,20 +33,27 @@ Type:
 Type: 
 
 ## CplxDumpGadget
-Type: ChannelGadget<Acquisition>
+Type: ChannelGadget
+Input: Acquisition
 
 ## CropAndCombineGadget
-Type: ChannelGadget<Acquisition>
+Type:
 
 ## DenoiseGadget
 
 ## ExtractGadget
+Type: ChannelGadget
+Input: Image (complex float)
 
 ## FFTGadget
 
 ## FlagTriggerGadget
+Type: ChannelGadget
+Input: Acquisition
 
 ## FloatToFixPointGadget
+Type: ChannelGadget
+Input: Image (float)
 
 ## FlowPhaseSubtractionGadget
 
@@ -99,6 +108,8 @@ Type: ChannelGadget<Acquisition>
 ## ImageFinishGadget
 
 ## ImageIndexGadget
+Type: ChannelGadget
+Input: Image (any)
 
 ## ImageResizingGadget
 
@@ -107,10 +118,14 @@ Type: ChannelGadget<Acquisition>
 ## ImageWriterGadget
 
 ## IsmrmrdDumpGadget
+Type: ChannelGadget
+Input: Acquisition or Waveform
 
 ## MaxwellCorrectionGadget
 
 ## NoiseAdjustGadget
+Type: ChannelGadget
+Input: Acquisition
 
 ## NoiseAdjustGadget_unoptimized
 
@@ -119,6 +134,8 @@ Type: ChannelGadget<Acquisition>
 ## PartialFourierAdjustROGadget
 
 ## PhysioInterpolationGadget
+Type: ChannelGadget
+Input: Image (complex float)
 
 ## PseudoReplicatorGadget
 
