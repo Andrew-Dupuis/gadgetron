@@ -2,45 +2,45 @@
 
 Gadgets are single units of processing within a Gadgetron toolchain. 
 
-## Categories
+# Categories
 
-### T1
+## T1
 
-### BART
+## BART
 
-### Cartesian
+## Cartesian
 
-### CMR
+## CMR
 
-### DICOM
+## DICOM
 
-### EPI
+## EPI
 
-### Examples
+## Examples
 
-### Fat Water
+## Fat Water
 
-### GPU
+## GPU
 
-### GRAPPA
+## GRAPPA
 
-### HYPER
+## HYPER
 
-### Interventional MRI
+## Interventional MRI
 
-### MOCO
+## MOCO
 
-### MRI Core
+## MRI Core
 
-### MRI Noncartesian
+## MRI Noncartesian
 
 ## PlPlot
 
-### pMRI
+## pMRI
 
-### Python
+## Python
 
-### Radial
+## Radial
 
 ## Spiral
 
