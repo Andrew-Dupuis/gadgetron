@@ -2,8 +2,6 @@
 
 Gadgets are single units of processing within a Gadgetron toolchain. 
 
-# Categories
-
 ## T1
 {Brief Summary of Contents} 
 
