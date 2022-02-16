@@ -1,13 +1,12 @@
 # MRI Core Gadgets
 The MRI core gadgets are the backbone of the Gadgetron pipeline, and provide core functions like data-ingress, flow management, type conversion, and more. 
 
-
 ## Pure Gadgets
-| Gadget Name                         | Type                  | Inputs                                           |
-| ----------------------------------- | --------------------- | ------------------------------------------------ |
-| ComplexToFloatGadget                | PureGadget            | Image (complex float)                            |
-| DenoiseGadget                       | PureGadget            | DenoiseImage (float/complex float or ImageArray) |
-| ScaleGadget                         | PureGadget            | Image (float) or IsmrmrdImageArray               |
+| Gadget Name                         | Has Tests?   | Inputs                                           |
+| ----------------------------------- | ------------ | ------------------------------------------------ |
+| ComplexToFloatGadget                | - []         | Image (complex float)                            |
+| DenoiseGadget                       | - []         | DenoiseImage (float/complex float or ImageArray) |
+| ScaleGadget                         | - []         | Image (float) or IsmrmrdImageArray               |
 
 ## Channel Gadgets
 | Gadget Name                         | Type                  | Inputs                                           |
