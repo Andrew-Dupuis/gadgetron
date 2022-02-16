@@ -1,4 +1,6 @@
 # MRI Core Gadgets
+The MRI core gadgets are the backbone of the Gadgetron pipeline, and provide core functions like data-ingress, flow management, type conversion, and more. 
+
 
 ## Pure Gadgets
 | Gadget Name                         | Type                  | Inputs                                           |
