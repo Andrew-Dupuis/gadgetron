@@ -1,11 +1,9 @@
 # T1 Gadgets
 
 ## Pure Gadgets
-<div style="font-size:1em;">
 | Gadget Name                         | Type                  | Inputs                                           |
 | ----------------------------------- | --------------------- | ------------------------------------------------ |
 |                                     |                       |                                                  |
-</div>
 
 ## Channel Gadgets
 | Gadget Name                         | Type                  | Inputs                                           |
