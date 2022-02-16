@@ -1,7 +1,8 @@
 <mxGraphModel>
   <root>
     <mxCell id="0" />
-    <mxCell id="readers-0" value="GadgetIsmrmrdAcquisitionMessageReader&#xa;(gadgetron_mricore)" style="fillColor=#d5e8d4;fontStyle=0" parent="0" vertex="1">      <mxGeometry width="300" height="50" as="geometry" />
+    <mxCell id="readers-0" value="GadgetIsmrmrdAcquisitionMessageReader&#xa;(gadgetron_mricore)" style="fillColor=#d5e8d4;fontStyle=0" parent="0" vertex="1">     
+      <mxGeometry width="300" height="50" as="geometry" />
     </mxCell>
     <mxCell id="readers-1" value="GadgetIsmrmrdWaveformMessageReader&#xa;(gadgetron_mricore)" style="fillColor=#d5e8d4;" parent="0" vertex="1">
       <mxGeometry y="60" width="300" height="50" as="geometry" />
