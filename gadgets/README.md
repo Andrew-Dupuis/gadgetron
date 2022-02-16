@@ -2,62 +2,27 @@
 
 Gadgets are single units of processing within a Gadgetron toolchain. 
 
-## T1
-{Brief Summary of Contents} 
-
-## BART
-{Brief Summary of Contents} 
-
-## Cartesian
-{Brief Summary of Contents} 
-
-## CMR
-{Brief Summary of Contents} 
-
-## DICOM
-{Brief Summary of Contents} 
-
-## EPI
-{Brief Summary of Contents} 
-
-## Examples
-{Brief Summary of Contents} 
-
-## Fat Water
-{Brief Summary of Contents} 
-
-## GPU
-{Brief Summary of Contents} 
-
-## GRAPPA
-{Brief Summary of Contents} 
-
-## HYPER
-{Brief Summary of Contents} 
-
-## Interventional MRI
-{Brief Summary of Contents} 
-
-## MOCO
-{Brief Summary of Contents} 
-
-## MRI Core
-{Brief Summary of Contents} 
-
-## MRI Noncartesian
-{Brief Summary of Contents} 
-
-## PlPlot
-{Brief Summary of Contents} 
-
-## pMRI
-{Brief Summary of Contents} 
-
-## Python
-{Brief Summary of Contents} 
-
-## Radial
-{Brief Summary of Contents} 
-
-## Spiral
-{Brief Summary of Contents} 
+## Categories
+| Name                | Description                                                                      |
+| --------------------| -------------------------------------------------------------------------------  |
+| T1                  | Motion correction gadget for T1 via the demons registration tool                 | 
+| BART                | Gadget that allows processing of incoming data via a configurable BART toolchain |
+| Cartesian           | -                                                                                |
+| CMR                 | -                                                                                |
+| DICOM               | Gadget for exporting images to DICOM format                                      |
+| EPI                 | -                                                                                |
+| Examples            | -                                                                                |
+| Fat Water           | -                                                                                |
+| GPU                 | GPU-accelerated Fast Fourier Transform (FFT) gadget                              |
+| GRAPPA              | -                                                                                |
+| HYPER               | -                                                                                |
+| Fat Water           | -                                                                                |
+| Interventional MRI  | -                                                                                |
+| MOCO                | -                                                                                |
+| MRI Core            | Core pipeline gadgets for MRI processing                                         |
+| MRI Noncartesian    | -                                                                                |
+| PlPlot              | -                                                                                |
+| pMRI                | -                                                                                |
+| Python              | -                                                                                |
+| Radial              | -                                                                                |
+| Spiral              | -                                                                                |
