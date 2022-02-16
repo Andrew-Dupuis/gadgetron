@@ -30,4 +30,4 @@
 ## Other Gadgets
 | Gadget Name                         | Type                  | Inputs                                           |
 | ----------------------------------- | --------------------- | ------------------------------------------------ |
-| RateLimitGadget                     | GenericReconGadget    | ACEMessageBlock and IsmrmrdReconData             |
+| bartgadget                          | GenericReconGadget    | ACEMessageBlock and IsmrmrdReconData             |
