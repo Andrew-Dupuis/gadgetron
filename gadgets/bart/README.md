@@ -1,4 +1,4 @@
-# MRI Core Gadgets
+# BART Gadgets
 
 ## Pure Gadgets
 | Gadget Name                         | Type                  | Inputs                                           |
