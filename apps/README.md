@@ -1,6 +1,6 @@
 # Apps
 
-Apps are compiled applications that form the core elements of a deployed Gadgetron workflow
+Apps are compiled applications that together coordinate a Gadgetron workflow:
 
 - [Gadgetron](gadgetron/README.md) is the server application itself
 - [Storage](storage/README.md) is the Gadgetron's storage server that runs alongside the processing instance
