@@ -66,7 +66,7 @@ The MRI core gadgets are the backbone of the Gadgetron pipeline, and provide cor
 
 ## Generic Recon Gadgets
 | Generic Recon Gadgets                          | Has Tests? | Inputs                                           |
-| ---------------------------------------------- | No         | ------------------------------------------------ |
+| ---------------------------------------------- | ---------- | ------------------------------------------------ |
 | GenericImageReconArrayToImageGadget            | No         | ------------------------------------------------ |
 | GenericImageReconGadget                        | No         | ------------------------------------------------ |
 | GenericReconAccumulateImageTriggerGadget       | No         | ------------------------------------------------ |
