@@ -34,7 +34,7 @@ RUN sed -i "s;#error -- unsupported GNU version! gcc versions later than 4.9 are
 
 COPY . /opt/code/gadgetron
 
-RUN cd gadgetron && \
+RUN cd /opt/code/gadgetron && \
     mkdir build && \
     cd build && \
     cmake ../ && \
