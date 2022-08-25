@@ -711,6 +711,12 @@ void hoNDKLT<T>::KL_transformation(hoNDArray<T>& M) const
 {
     M = M_;
 }
+    
+template<typename T>
+void hoNDKLT<T>::set_KL_transformation(hoNDArray<T>& M)
+{
+   M_ = M;
+}
 
 template<typename T>
 void hoNDKLT<T>::eigen_vector(hoNDArray<T>& V) const
