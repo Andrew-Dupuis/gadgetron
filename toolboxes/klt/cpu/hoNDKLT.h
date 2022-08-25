@@ -72,6 +72,8 @@ namespace Gadgetron{
 
         /// get the KL transformation matrix
         void KL_transformation(hoNDArray<T>& M) const;
+        /// set the KL transformation matrix
+        void set_KL_transformation(hoNDArray<T>& M);
         /// get the eigen vector matrix
         void eigen_vector(hoNDArray<T>& V) const;
         /// get the eigen values
